@@ -6,7 +6,7 @@
 ## 🌸 about me
 - Java/Kotlin enjoyer  
 - Minecraft addict  
-- system, mindset, and identity engineering nerd  
+- system engineering nerd  
 
 ## ✨ current interests
 - building my own PaperMC fork  

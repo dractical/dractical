@@ -1,6 +1,6 @@
 <div align="center">
   <h1>hi, I'm fembyte 💗</h1>
-  <p>17yo femboy dev who writes code, fixes problems, and optimizes!</p>
+  <p>18yo femboy dev who writes code, fixes problems, and optimizes!</p>
 </div>
 
 ## 🌸 about me
